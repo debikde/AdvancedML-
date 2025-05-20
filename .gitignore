@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+# PyCharm
+.idea/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+
+/.venv
+
+agent_visuals
+/BEST
+/checkpoints
+/dataset
+/logs
+/model_checkpoints
+/modelsDQN
+/outputs
+/tables_V2.0
+/visual_outputs
+car_colors_dataset.csv
+target_last.pt
